@@ -47,7 +47,7 @@
 .. |orcid-shreyas| image:: https://img.shields.io/badge/id-0000--0002--0870--4665-a6ce39.svg
    :target: https://orcid.org/0000-0002-0870-4665
 
-:Name: EinsteinPy
+:Name: EinstnPy
 :Website: https://einsteinpy.org/
 :Version: 0.3.dev0
 
